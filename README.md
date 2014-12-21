@@ -2,20 +2,21 @@ Bitcoin is a groundbreaking technology that has large potential to fundamentally
  
 <a name="toc"></a>Below are some essential concepts and explanations that I’ve come to believe are the most important to convey in discussion.
 
-### [Bitcoin is a technology for everybody (neutrality)](#neutrality)
-### [Bitcoin preserves financial privacy (not anonymity)](#financial-privacy)
-### [Bitcoin is an alternative payment method](#payment-method)
-### [Bitcoin is a technical breakthrough and has massive future possibilities](#technical-breakthrough)
-### [Bitcoin has an ultra secure core protocol](#ultra-secure-core)
-### [Bitcoin’s volatility is good for consumers](#volatility)
-### [Bitcoin is available to everyone](#available-to-everyone)
-### [Bitcoin is still in BETA - act appropriately](#beta)
-### [Bitcoin’s fixed monetary policy allows for certainty and predictability in the long run](#fixed-monetary-policy)
-### [Bitcoin is self-regulating](#self-regulating)
-### [Bitcoin is already heavily regulated by the US government and the media](#already-heavily-regulated)
-### [Bitcoin has multiple uses](#multiple-uses)
-### [Bitcoin operates over a truly open payment network](#open)
+* **[Bitcoin is a technology for everybody (neutrality)](#neutrality)**
+* **[Bitcoin preserves financial privacy (not anonymity)](#financial-privacy)**
+* **[Bitcoin is an alternative payment method](#payment-method)**
+* **[Bitcoin is a technical breakthrough and has massive future possibilities](#technical-breakthrough)**
+* **[Bitcoin has an ultra secure core protocol](#ultra-secure-core)**
+* **[Bitcoin’s volatility is good for consumers](#volatility)**
+* **[Bitcoin is available to everyone](#available-to-everyone)**
+* **[Bitcoin is still in BETA - act appropriately](#beta)**
+* **[Bitcoin’s fixed monetary policy allows for certainty and predictability in the long run](#fixed-monetary-policy)**
+* **[Bitcoin is self-regulating](#self-regulating)**
+* **[Bitcoin is already heavily regulated by the US government and the media](#already-heavily-regulated)**
+* **[Bitcoin has multiple uses](#multiple-uses)**
+* **[Bitcoin operates over a truly open payment network](#open)**
 
+---
 
 ## Bitcoin is a technology for everybody (neutrality) <a name="neutrality"></a>
 It is essential that Bitcoin remains a neutral technology unrelated to any group, culture, government, religion, language, country, or movement. Bitcoin is not just for computer scientists or libertarians. Bitcoin is a technology that any person or group can use to achieve their own objectives.
