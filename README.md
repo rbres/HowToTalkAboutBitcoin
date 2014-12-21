@@ -18,7 +18,6 @@ Millions of personal identities are stolen every year because large companies ha
 
 Further reading: [1](http://www.law.cornell.edu/uscode/text/12/chapter-35), [2](http://en.wikipedia.org/wiki/Right_to_Financial_Privacy_Act), [3](https://www.fdic.gov/consumers/privacy/yourrights/), [4](http://plato.stanford.edu/entries/privacy/), [5](http://www.ftc.gov/sites/default/files/documents/reports/consumer-sentinel-network-data-book-january/sentinel-cy2012.pdf), [6](http://en.wikipedia.org/wiki/Credit_card_fraud), [7](http://krebsonsecurity.com/category/data-breaches/), [8](http://www.cnet.com/pictures/the-credit-card-data-breaches-retailers/), [9](http://www.heritage.org/research/reports/2014/10/cyber-attacks-on-us-companies-in-2014), [10](http://fc13.ifca.ai/proc/1-3.pdf), [11](http://www.coindesk.com/how-anonymous-is-bitcoin/)
 
-
 ## Bitcoin is an alternative payment method
 In the US alone, there are over a dozen payment methods that are supported by various banks, acquirers, issuers, and processors. Some examples include:
 
@@ -64,7 +63,7 @@ It is important to make a distinction between the Bitcoin protocol and either Bi
 
 Further reading: [1](https://bitcoin.org/en/faq#is-bitcoin-secure), [2](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/), [3](http://crypto.stackexchange.com/questions/316/how-secure-is-the-bitcoin-protocol), [4](https://en.bitcoin.it/wiki/Protocol_rules)
 
-Bitcoin’s volatility is good for consumers
+## Bitcoin’s volatility is good for consumers
 
 Volatility is a signal to consumers that makes them fully aware of the risks associated with Bitcoin. As Bitcoin is still in BETA, someone purchasing Bitcoin is aware of the volatility which re-emphasizes the risk of investing in Bitcoin.
 
